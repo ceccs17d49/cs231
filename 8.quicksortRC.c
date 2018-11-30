@@ -1,3 +1,6 @@
+// Sreelal S
+// S3D 
+// 49
 #include <stdio.h>
 void quicksort (int [], int, int);
 int main()
