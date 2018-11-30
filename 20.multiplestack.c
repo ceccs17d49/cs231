@@ -108,4 +108,191 @@ int main() {
 	} while (ans != '7');
 }
 
+/*
+output
+[?1h=$ ./1[K20_multiple_stack_using_array 
+[?1l>
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 1
+Enter data to be pushed : 1
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 1
+Enter data to be pushed : 2
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 1
+Enter data to be pushed : 3
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 3
+
+Stack contents
+3
+2
+1
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 2
+Popped element is 3
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 3
+
+Stack contents
+2
+1
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 4
+Enter data to be pushed : 1
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 4
+Enter data to be pushed : 2
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 4
+Enter data to be pushed : 3
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 6
+
+Stack contents
+3
+2
+1
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 5
+Popped element is 3
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 6
+
+Stack contents
+2
+1
+
+	Two Stack Using array
+	Beg Stack
+1. Beg Push
+2. Beg Pop
+3. Beg Display
+	End Stack
+4. End Push
+5. End Pop
+6. End Display
+7. Exit
+Enter your choice : 7
+*/
   
