@@ -1,3 +1,6 @@
+// Sreelal S
+// S3D
+// 49
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
