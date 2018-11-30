@@ -1,3 +1,6 @@
+// Sreelal S
+// S3D
+// 49
 #include <stdio.h>
 
 int sequentialSearch(int array[], int size, int element) {
