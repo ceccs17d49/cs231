@@ -56,3 +56,21 @@ int main() {
 	quickSortIterative(array, 0, size-1);
 	printArray(array, size);
 }
+
+/*
+output
+[?1h=$ ./07_quicksort_iterative 
+[?1l>Enter size of the array : 5
+Enter array elements
+28163    
+8
+1
+6
+3
+Sorted Array
+1
+2
+3
+6
+8
+*/
