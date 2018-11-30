@@ -35,3 +35,17 @@ int main() {
 		printf("Element not found\n");
 	}
 }
+
+/*
+Output
+[?1h=$ ./01_sequential_search 
+[?1l>Enter number of elements : 5
+Enter elements
+2
+8
+1
+6
+3
+Enter element to search : 6
+Element found at position 4
+*/
