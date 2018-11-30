@@ -355,7 +355,7 @@ void sort()
 
 /*
 output
-[?1h=$ A./11_singly_linked_list [C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K2_doubly_linked_list 
+[?1h=$ A./12_doublyly_linked_list [C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K2_doubly_linked_list 
 [?1l>
 
 	Doubly Linked List
