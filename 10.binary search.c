@@ -38,6 +38,26 @@ int main() {
 	for (i=0; i<size; i++) {
 		printf("%d\n", array[i]);
 	}
+	
+	/*
+	output
+	[?1h=$ ./10_binary_search 
+[?1l>Enter number of elements : 5
+Enter elements
+2
+6
+1
+8
+3
+Sorted array
+1
+2
+3
+6
+8
+Enter element to search : 6
+Element found at position 4
+*/
 	printf("Enter element to search : ");
 	scanf("%d", &element);
 
