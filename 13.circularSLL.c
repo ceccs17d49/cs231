@@ -200,3 +200,331 @@ int main() {
 
 	return(0);
 }
+
+/*
+output
+[?1h=$ ./13_circular_singly_linked_list 
+[?1l>
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 1
+Enter new data : 1
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 4
+Enter new data : 4
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 2
+Enter new data : 3
+Enter data of the node before which new node is to be created : 4
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 3
+Enter new data : 2
+Enter data of the node after which new node is to be created : 1
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 5
+HEADER->1->2->3->4->HEADER
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 6
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 5
+HEADER->2->3->4->HEADER
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 7
+Enter data of the node to be deleted : 3
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 8
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 5
+HEADER->2->HEADER
+
+
+	CIRCULAR SINGLY LINKED LIST
+1. Insert at front
+2. Insert before
+3. Insert after
+4. Insert at end
+5. Print all
+6. Delete first
+7. Delete node
+8. Delete last
+9. Delet all
+0. Exit
+Enter your choice : 0
+[?1h=$ ./14_circular_doubly_linked_list 
+[?1l>
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 1
+
+Enter new data : 1
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 4
+
+Enter new data : 4
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 2
+
+Enter new data : 4 3
+Enter data of the node before which new node is to be created : 4
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 3
+
+Enter new data : 2
+Enter data of the node after which new node is to be created : 1
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+HEADER<->1<->2<->3<->4->HEADER
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 6
+
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 7
+
+Enter data of the node to be deleted : 3
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 8
+
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+HEADER<->2->HEADER
+
+
+	Circular Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 0
+*/
