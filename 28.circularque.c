@@ -1,3 +1,6 @@
+// Sreelal S
+// S3D
+// 49
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;
@@ -71,7 +74,128 @@ int main() {
 		}
 	} while(choice != '4');
 }
+/*
+output
+[?1h=$ ./28_circular_queue_using_array 
+[?1l>
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 1
 
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 3
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 4 5
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+1:2:3:-:-:-:-:-:-:-:
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+-:2:3:-:-:-:-:-:-:-:
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 4
+[?1h=$ ./29_queue_using_linked_list 
+[?1l>
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 1
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 3
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+
+Linked List
+HEADER->1->2->3->NULL
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+
+Linked List
+HEADER->2->3->NULL
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 4
+*/
   
 
 
