@@ -208,4 +208,195 @@ int main() {
 	return (0);
 }
 
+/*
+output
+[?1h=$ ./11_singly_linked_list 
+[?1l>
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 1
+
+Enter new data : 1
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 3 4
+
+Enter new data : 4
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 2
+
+Enter data before which new node is to be created : 3 4
+Enter new data : 3
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 3
+
+Enter data after which new node is to be created : 1
+Enter new data : 2
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+
+Linked List
+HEADER->1->2->3->4->NULL
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 6
+
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+
+Linked List
+HEADER->2->3->4->NULL
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 7
+
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+
+Linked List
+HEADER->2->3->NULL
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 8
+
+Enter data to be deleted : 3
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+
+Linked List
+HEADER->2->NULL
+
+	LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 0
+*/
+
   
