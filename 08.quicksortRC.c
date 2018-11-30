@@ -61,3 +61,21 @@ void quicksort(int list[], int low, int high)
 
     }
 }
+
+/*
+output
+[?1h=$ ./08_quicksort_recursive 
+[?1l>Enter size of the array : 5
+Enter array elements
+28163    
+81 
+1
+6
+3
+Sorted Array
+1
+2
+3
+6
+8
+*/
