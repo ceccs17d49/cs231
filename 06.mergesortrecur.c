@@ -56,6 +56,24 @@ int main() {
 	printArray(a, size);
 }
 
+/*
+output
+[?1h=$ ./06_mergesort_recursive 
+[?1l>Enter size of the array : 5
+Enter array
+2
+8
+1
+6
+3
+
+Sorted Array
+1
+2
+3
+6
+8
+*/
  
 
 
