@@ -1,4 +1,6 @@
-
+// Sreelal S
+// S3D
+// 49
 #include <stdio.h>
 
 int bubbleSort(int array[], int size) {
