@@ -33,3 +33,21 @@ int main() {
 		printf("%d\n", array[i]);
 	}
 }
+
+/*
+output
+[?1h=$ ./04_bubble_sort 
+[?1l>Enter number of elements in the array : 5
+Enter the array
+2
+8
+1
+6
+3
+Sorted array 
+1
+2
+3
+6
+8
+*/
