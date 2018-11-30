@@ -352,3 +352,199 @@ void sort()
     }
     traversebeg();
 }
+
+/*
+output
+[?1h=$ A./11_singly_linked_list [C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K2_doubly_linked_list 
+[?1l>
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 1
+
+Enter new data : 1
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 4
+
+Enter new data : 4
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 2
+
+Enter new data : 4 3
+Enter data of the node before which new node is to be created : 4
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 3
+
+Enter new data : 2
+Enter data of the node after which new node is to be created : 1
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+NULL<-HEADER<->1<->2<->3<->4->NULL
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 6
+
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+NULL<-HEADER<->2<->3<->4->NULL
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 7
+
+Enter data of the node to be deleted : 5
+Deletion failed. Node with matching data not found
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 8
+
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 7
+
+Enter data of the node to be deleted : 3
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 5
+
+NULL<-HEADER<->2->NULL
+
+
+	Doubly Linked List
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete node
+8. Delete last node
+9. Delete all
+0. Exit
+Enter your choice : 0
+*/
