@@ -1,3 +1,6 @@
+// Sreelal s
+// S3d
+// 49
 #include <stdio.h>
 #include <stdlib.h>
 
