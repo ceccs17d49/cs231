@@ -30,3 +30,21 @@ int main()
 		printf("%d \n",a[i]);
 	return 0;
 }
+
+/*
+out put
+[?1h=$ ./02_selection_sort 
+[?1l>Enter number of elements in the array : 5
+Enter the array
+2
+8
+1
+6
+3
+Sorted array 
+1
+2
+3
+6
+8
+*/
