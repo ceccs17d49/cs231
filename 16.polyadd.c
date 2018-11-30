@@ -140,3 +140,44 @@ int main() {
 	deleteAll(polynomial3);
 	return (0);
 }
+
+/*
+output
+[C[C[K./16_polynomial_addition 
+[?1l>	Polynomial 1
+Enter coefficient : 2
+Enter exponent : 2
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 1
+Enter exponent : 1
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+	Polynomial 2
+Enter coefficient : 2
+Enter exponent : 2
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 1
+Enter exponent : 1
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+
+Adding polynomials
+P(x) = 2x^2 + x^1
+Q(x) = 2x^2 + x^1
+Sum
+R(x) = 4x^2 + 2x^1
+*/
