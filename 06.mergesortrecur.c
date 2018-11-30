@@ -1,3 +1,6 @@
+// Sreelal S
+// S3D
+// 49
 #include <stdio.h>
 
 int merge(int a[], int l, int m, int r) {
