@@ -114,6 +114,102 @@ int main() {
 	} while(choice != '6');
 }
 
+/*
+output
+[?1h=$ ./30_deque_using_linked_list 
+[?1l>
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 1
+Enter data : 1
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 2
+Enter data : 2
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 2
+Enter data : 3
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 2
+Enter data : 4
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 5
+
+Linked List
+HEADER->1->2->3->4->NULL
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 3
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 4
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 5
+
+Linked List
+HEADER->2->3->NULL
+
+	Queue using array
+1.Enqueue Front
+2.Enqueue Rear
+3.Dequeue Front
+4.Dequeue Rear
+5.Display
+6.Exit
+Enter your choice : 6
+*/
+
     
 
 
