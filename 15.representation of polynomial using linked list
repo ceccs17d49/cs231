@@ -93,3 +93,25 @@ int main() {
 	deleteAll();
 	return (0);
 }
+
+/*
+output
+[?1h=$ ./15_representation_of_polynomial_using_linked_list 
+[?1l>Enter coefficient : 2
+Enter exponent : 2
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 1
+
+Enter coefficient : 1
+Enter exponent : 1
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 1 2
+
+
+F(p) = 2x^2 + x^1
+*/
+
