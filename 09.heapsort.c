@@ -53,4 +53,21 @@ int main()
 		printf("\t %d:",heap[i]);
 }
 
+/*
+output
+[?1h=$ ./a[K[K[K./08[K9_heap_sort 
+[?1l>Enter size of the array : 5
+Enter array elements
+2
+8
+1
+6
+3
+Sorted Array
+1
+2
+3
+6
+8
+*/
 	
