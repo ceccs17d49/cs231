@@ -65,5 +65,11 @@ printf(" postfix exp is \n");
   }
 }
 
+/*
+output
+[?1h=$ ./22_infix_to_postfix 
+[?1l>Enter the infix expression : a+b+c^[[D      *c
+Postfix : abc*+
+*/
  
 
