@@ -59,6 +59,23 @@ int main()
 	return 0;
 }
 
+/*
+output
+[?1h=$ ./05_mergesort 
+[?1l>Enter array size : 5
+Enter array elements
+2
+8
+1
+6
+3
+Sorted array
+1
+2
+3
+6
+8
+*/
 
 
 
