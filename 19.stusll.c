@@ -77,5 +77,78 @@ void display()
 		}
 	}
 }
-	
+
+/*
+output
+[?1h=$ ./19_stack_using_linked_list 
+[?1l>
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 1
+
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 2
+
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 3
+
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 3
+
+
+Linked List
+TOP->3
+2
+1
+
+
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 2
+
+
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 3
+
+
+Linked List
+TOP->2
+1
+
+
+	STACK USING LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 4
+*/
 	
