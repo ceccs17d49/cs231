@@ -68,3 +68,66 @@ int main() {
 		}
 	} while(choice != '4');
 }
+
+/*
+output
+[?1h=$ ./26_queue_using_array 
+[?1l>
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 1
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 3
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+1
+2
+3
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 2
+Deleted element : 1
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+2
+3
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 4
+*/
