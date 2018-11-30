@@ -1,3 +1,6 @@
+// Sreelal S
+// S3D
+// 49
 #include<stdio.h>
 #define MAX 5
 int top=-1;
